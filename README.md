@@ -23,9 +23,7 @@ Para executar a aplicação é necessário:
 Modifique o [DIRETORIO] na string de conexão no arquivo **PessoaService.asmx**, no trecho indicado:
 
 ```bash
-...
 Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=[DIRETORIO]\\App_Data\\BancoTesteSoap.mdf;Integrated Security=True;"
-...
 
 ```
 
