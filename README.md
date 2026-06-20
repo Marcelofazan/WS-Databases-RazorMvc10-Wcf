@@ -6,7 +6,7 @@ Exemplo de WebServices SOAP em C# .NET WCF com banco de dados SQL-Server.
 |-----------|-----------|
 | **SOAP**  |  Serviços de rede que permitem a troca de informações estruturadas (via XML) entre aplicações. |
 
-#### Requisitos do Projeto
+#### 💬 Requisitos do Projeto
 - Se necessário Acessar Visual Studio como administrador.
 - Se necessário atribuir acesso de usuário NT Service\MSSQLSERVER a pasta App_Data.
 
@@ -23,11 +23,10 @@ Para executar a aplicação é necessário:
 
 - Acessar link de referência da documentação: (http://localhost:54222/PessoaService.asmx)
 
-
 ## 🌐 Razor-Consumir-Soap
 Exemplo de Consumo de WebServices em C# ASP.NET Core 10. 
 
-#### O que você vai encontrar neste projeto
+#### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
 |-----------|-----------|
 | **Client SOAP**  | Manipulação de métodos CRUD para enviar/receber dados. |
