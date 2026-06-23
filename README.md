@@ -1,4 +1,4 @@
-## 🛠️ Soap-Provedor-Database
+## 🛠️ WebServices-Net-WSDL
 Exemplo de WebServices SOAP em C# .NET WCF com banco de dados SQL-Server.
 
 #### 📋 O que você vai encontrar neste projeto
