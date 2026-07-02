@@ -29,6 +29,9 @@ Para executar a aplicação é necessário:
 - O WSDL fica disponivel em **http://localhost:54222/PessoaService.asmx?wsdl**
   
 ## 📁 Razor-Consumir-Soap
+Exemplo de CRUD em Razor MVC C# ASP.NET Core 10.
+
 #### 🔄 Executar a aplicação
+
 - Para executar a aplicação é necessário, rodar antes o soap-provedor-database. **http://localhost:54222/PessoaService.asmx**
 
