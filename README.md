@@ -1,5 +1,5 @@
 ## 🌐 Webservices-Database-Net-Wcf
-Exemplo de integração SOAP WebServices em C# .NETFramework Wcf e banco de dados SQL-Server.
+Exemplo de integração SOAP WebServices em C# ASP.NET 10 Razor Mvc e .NETFramework Wcf e banco de dados SQL-Server.
 
 #### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
