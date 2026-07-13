@@ -1,4 +1,4 @@
-## 🌐 WebServices-Databases-RazorMvc10-Wcf
+## 🌐 WS-Databases-RazorMvc10-Wcf
 Exemplo de integração SOAP WebServices em C# ASP.NET 10 Razor Mvc, .NETFramework Wcf e banco de dados SQL-Server.
 
 #### 📋 O que você vai encontrar neste projeto
